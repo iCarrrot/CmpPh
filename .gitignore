@@ -1,3 +1,9 @@
+#datasets (which are avible here: http://franchomelendez.com/index.php/teaching/computational-photography/ :
+Lab2/focal_stack_dataset/*
+Lab2/HDR/*
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -5,6 +11,8 @@ __pycache__/
 
 # C extensions
 *.so
+
+
 
 # Distribution / packaging
 .Python
@@ -34,7 +42,6 @@ wheels/
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
-
 # Unit test / coverage reports
 htmlcov/
 .tox/
