@@ -1,8 +1,10 @@
 #datasets (which are avible here: http://franchomelendez.com/index.php/teaching/computational-photography/ :
 Lab2/focal_stack_dataset/*
 Lab2/HDR/*
-
-
+#img*
+*/imageio-2.2.0/*
+imageio-2.2.0/*
+*/data*/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
